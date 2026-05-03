@@ -40,16 +40,14 @@ I'm a final-year Computer Science student (graduating 2026) passionate about bui
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🧠 Neural Network](https://github.com/Anchal2000-hue/neural-network) | Built a neural network from scratch with backpropagation | Python, NumPy |
-| [📄 Resume Matcher](https://github.com/Anchal2000-hue/resume-matcher) | AI tool that matches resumes to job descriptions using NLP | Python, Flask, NLP |
-| [🛍️ E-Commerce App](https://github.com/Anchal2000-hue/ecommerce-app) | Full-stack shopping platform with auth and cart | React, Node.js, MongoDB |
-| [💬 Chat App](https://github.com/Anchal2000-hue/chat-app) | Real-time chat with rooms and online presence | React, Socket.io, Node.js |
-| [✅ Habit Tracker](https://github.com/Anchal2000-hue/habit-tracker) | Daily habit tracker with streaks and progress charts | React, JavaScript |
-| [🍽️ Recipe App](https://github.com/Anchal2000-hue/recipe-app) | Recipe discovery app with API integration | React, JavaScript |
-
----
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🧠 [Neural Network](https://github.com/Anchal2000-hue/neural-network) | Neural network from scratch with digit recognizer | Python, NumPy | — |
+| 📄 [Resume Matcher](https://github.com/Anchal2000-hue/resume-matcher) | AI tool that matches resumes to job descriptions | Python, Flask, Groq AI | [Live](https://resume-matcher-fxr5.onrender.com) |
+| 📚 [Shelf Scanner](https://github.com/Anchal2000-hue/shelf-scanner) | AI-powered bookshelf scanner & book discovery | Python, Flask, Groq AI | [Live](https://shelf-scanner-9of0.onrender.com) |
+| 🏥 [Health Monitor](https://github.com/Anchal2000-hue/health-monitor) | AI-powered health monitoring dashboard | Python, Flask | — |
+| ✅ [Habit Tracker](https://github.com/Anchal2000-hue/habit-tracker) | Daily habit tracker with streaks | Next.js, Supabase | [Live](https://habit-tracker-7vck.vercel.app) |
+| 🍽️ [Recipe App](https://github.com/Anchal2000-hue/recipe-app) | Recipe discovery with meal logging | Next.js, Supabase | [Live](https://recipe-app-tan-gamma.vercel.app) |
 
 ## 💼 Experience
 
