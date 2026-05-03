@@ -42,10 +42,10 @@ I'm a final-year Computer Science student (graduating 2026) passionate about bui
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
+| 🏥 [VitalWatch](https://github.com/Anchal2000-hue/health-monitor) | Real-time health monitoring with live ECG simulation | HTML, CSS, JS | [Live](https://anchal2000-hue.github.io/health-monitor/) |
 | 🧠 [Neural Network](https://github.com/Anchal2000-hue/neural-network) | Neural network from scratch with digit recognizer | Python, NumPy | — |
 | 📄 [Resume Matcher](https://github.com/Anchal2000-hue/resume-matcher) | AI tool that matches resumes to job descriptions | Python, Flask, Groq AI | [Live](https://resume-matcher-fxr5.onrender.com) |
 | 📚 [Shelf Scanner](https://github.com/Anchal2000-hue/shelf-scanner) | AI-powered bookshelf scanner & book discovery | Python, Flask, Groq AI | [Live](https://shelf-scanner-9of0.onrender.com) |
-| 🏥 [Health Monitor](https://github.com/Anchal2000-hue/health-monitor) | AI-powered health monitoring dashboard | Python, Flask | — |
 | ✅ [Habit Tracker](https://github.com/Anchal2000-hue/habit-tracker) | Daily habit tracker with streaks | Next.js, Supabase | [Live](https://habit-tracker-7vck.vercel.app) |
 | 🍽️ [Recipe App](https://github.com/Anchal2000-hue/recipe-app) | Recipe discovery with meal logging | Next.js, Supabase | [Live](https://recipe-app-tan-gamma.vercel.app) |
 
