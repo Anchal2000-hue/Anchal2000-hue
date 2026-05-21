@@ -4,7 +4,7 @@
 
 I'm a final-year Computer Science student (graduating 2026) passionate about building intelligent, user-friendly web applications. Ex intern at **Sunsys Infotech Pvt. Ltd.** and actively looking for full-time roles and internships.
 
-🌐 **Portfolio:** [anchaltiwari.netlify.app](https://anchaltiwari.netlify.app)
+🌐 **Portfolio:** https://portfolio-g3qt.vercel.app
 📧 **Email:** [at492596@gmail.com](mailto:at492596@gmail.com)
 💼 **LinkedIn:** [Anchal Tiwari](https://www.linkedin.com/in/anchal-tiwari-b85b642a0)
 
